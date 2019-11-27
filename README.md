@@ -16,7 +16,7 @@ final double PROBA = 0.025 ;
 ## Build and launch the app
 Build status:
 
-![Actions Status](https://github.com/TurtleForGaming/IUT_JeuDeLaVie_3D/workflows/Javac%20build/badge.svg](https://github.com/TurtleForGaming/IUT_JeuDeLaVie_3D/actions)
+![Actions Status](https://github.com/TurtleForGaming/IUT_JeuDeLaVie_3D/workflows/Javac%20build/badge.svg)
 ```bash
 stugler@912e007-12:~/TP/Algo/IUT_JeuDeLaVie_3D$ ./clean.sh 
 stugler@912e007-12:~/TP/Algo/IUT_JeuDeLaVie_3D$ ./build.sh 
