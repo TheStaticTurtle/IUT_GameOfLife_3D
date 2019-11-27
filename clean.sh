@@ -1,1 +1,1 @@
-rm *.class
+rm -f *.class
