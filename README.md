@@ -1,8 +1,7 @@
-# IUT_JeuDeLaVie_3D
+# IUT_GameOfLife_3D
+
+Conway's Game of Life but in 3D
 Simultation of cells propagation in a 3d universe. The cells color is related by the number of cells nearby (alive).
-At each generation the cell satate changes:
- - If a dead cell a 3 nearby cell that are alive she lives
- - If an alive cell doesn't have 2 or 3 nearby cells alive she dies
 
 # Instructions
 
@@ -16,11 +15,11 @@ final double PROBA = 0.025 ;
 ## Build and launch the app
 Build status:
 
-![Actions Status](https://github.com/TurtleForGaming/IUT_JeuDeLaVie_3D/workflows/Javac%20build/badge.svg)
+![Actions Status](https://github.com/TurtleForGaming/IUT_GameOfLife_3D/workflows/Javac%20build/badge.svg)
 ```bash
-stugler@912e007-12:~/TP/Algo/IUT_JeuDeLaVie_3D$ ./clean.sh 
-stugler@912e007-12:~/TP/Algo/IUT_JeuDeLaVie_3D$ ./build.sh 
-stugler@912e007-12:~/TP/Algo/IUT_JeuDeLaVie_3D$ ./launch.sh 
+stugler@912e007-12:~/TP/Algo/IUT_GameOfLife_3D$ ./clean.sh 
+stugler@912e007-12:~/TP/Algo/IUT_GameOfLife_3D$ ./build.sh 
+stugler@912e007-12:~/TP/Algo/IUT_GameOfLife_3D$ ./launch.sh 
 ```
 
 # Screenshots
